@@ -13,7 +13,8 @@ import java.util.Scanner;
  * array called Candies. Use this code to answer questions
  * B.1 and B.2 in the midterm review.
  * @author dancye, 2019
- date: 20 feb, 2020
+ * date: 20 feburary, 2020
+ * edited by: kiran
  */
 public class VendingMachineItem 
 {
